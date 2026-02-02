@@ -1085,7 +1085,7 @@ _Related: [Games](#games)_
 - [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
 - [TuxSEO](https://tuxseo.com/) `⚠` - Create automated blog content for your business, using AI. ([Source Code](https://github.com/rasulkireev/TuxSEO)) `MIT` `Python/Django/Docker`
-
+- [HyperAgency](https://github.com/vuics/h9y) - agentic AI operating system (h9y.ai) that replaces brittle, fragmented automations with long-lived, self-improving systems. Decentralized, omni-channel, extensible, web3 marketplace. `Apache-2.0-NC` `Docker/K8s`
 
 ### Groupware
 
